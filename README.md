@@ -70,4 +70,5 @@ Improvement Area: Atliq Grands has low occupancy (47.1%) and the lowest rating (
 Screenshots
 
 Demo of Dashboard - https://github.com/Ashtheanalyst/AtliQ-Hospitality/blob/main/AtliQ%20Hospitality.pbit
+
 Snapshot - https://github.com/Ashtheanalyst/AtliQ-Hospitality/blob/main/Snapshot%20of%20the%20Dashboard.png
